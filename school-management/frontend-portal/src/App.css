@@ -1,0 +1,48 @@
+button.submit{
+	padding: 5px 20px;
+}
+.App button{
+	  padding: 3px 6px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 1em;
+	  margin: 4px 2px;
+	  -webkit-transition-duration: 0.4s; /* Safari */
+	  transition-duration: 0.4s;
+	  cursor: pointer;
+	  background-color: white;
+  	  color: black;
+      border: 2px solid #008CBA;
+}
+.App button:hover{
+	  background-color: #008CBA;
+  	  color: white;
+}
+.App form{
+	margin-top: 5px;
+}
+.form-group .row div:first{
+	text-align: center;
+}
+.form-group .row div input{
+	width: 100%;
+}
+
+.sideways li.active{
+	border: 1px solid #dc9b3a;
+}
+#modalEditor .modal-dialog{
+	width: 100%;
+}
+#modalEditor .modal-dialog{
+	width: 100%;
+}
+.errormsg{
+	color: #f00;
+}
+.btn-right{
+	top: 5px;
+    position: absolute;
+    right: 5px;
+}
